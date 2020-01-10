@@ -23,7 +23,7 @@ I recommend these cheap cloud providers for your VPN server:
 First, get the script and make it executable :
 
 ```bash
-curl -O https://raw.githubusercontent.com/angristan/wireguard-install/master/wireguard-install.sh
+curl -O https://raw.githubusercontent.com/justinfarmer14/wireguard-install-1/blob/master/wireguard-install.sh
 chmod +x wireguard-install.sh
 ```
 
